@@ -12,20 +12,6 @@ to a virtual shopping cart and see the redux events going through, while applyin
 
 Works in Chrome + Firefox + Safari, untested in IE.
 
-## Challenges
 
-Discounts are currently being generated on a per fruit basis:
-
-```
-export const CHERRIES_DISCOUNT : Discount = {
-    fruit: { name: 'Cherries 🍒', price: 0.25 },
-    amountRequired: 3
-}
-
-export const KIWIS_DISCOUNT : Discount = {
-    fruit: { name: 'Kiwis 🥝', price: 0.40 },
-    amountRequired: 4
-}
-```
 
 How would you generalise those discounts application? 
