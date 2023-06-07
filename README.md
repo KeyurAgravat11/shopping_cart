@@ -1,2 +1,2 @@
-# movie_tmdb_api
-I have created  this site using tmdb api in typescript,redux and react.
+# shopping_cart
+I have created  this site using typescript,redux and react.
