@@ -1,6 +1,6 @@
 # Shopping Cart w/React+Redux
 
-🛒  React + Redux (TypeScript) Sample Shopping Cart. Submission for /r/codingprompts (Week 3). Add fruits
+🛒  React + Redux (TypeScript) Sample Cart. Submission for /r/codingprompts. Add fruits
 to a virtual shopping cart and see the redux events going through, while applying discounts when stated.
 
 ## Technologies
@@ -14,4 +14,3 @@ Works in Chrome + Firefox + Safari, untested in IE.
 
 
 
-How would you generalise those discounts application? 
