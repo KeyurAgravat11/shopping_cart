@@ -1,7 +1,7 @@
 # Shopping Cart w/React+Redux
 
-🛒  React + Redux (TypeScript) Sample Cart. Submission for /r/codingprompts. Add fruits
-to a virtual shopping cart and see the redux events going through, while applying discounts when stated.
+🛒  React + Redux (TypeScript) Sample Cart.Add fruits to a virtual shopping cart and see the redux events 
+going through, while applying discounts when stated.
 
 ## Technologies
 
